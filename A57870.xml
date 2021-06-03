@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules and directions how all dissenters may unite in religion as is establish'd in the Church of England</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57870</idno><idno type="EEBO-CITATION">16016767</idno>
+  <idno type="VID">104781</idno>
+  <idno type="EEBO-PROQUEST">2240854064</idno>
+  
+            <idno type="STC">Wing R2246</idno>
+            <idno type="STC">ESTC R36797</idno>
+            <idno type="OCLC">16016767</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104781)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1156:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules and directions how all dissenters may unite in religion as is establish'd in the Church of England</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Keble ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"June 18th, 1689. This may be printed. R.M."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104781:1"/>
+            <pb facs="tcp:104781:1"/>
+            <p>RULES AND DIRECTIONS HOW ALL DISSENTERS May Unite in RELIGION, AS IS Establish'd in the Church of <hi>England.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>June</hi> 18<seg rend="sup">th.</seg> 1689.</date>
+                           </dateline>
+                        </opener>
+                        <p>This may be Printed.</p>
+                        <closer>
+                           <signed>R. M.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Keble</hi> at the <hi>Turks-Head</hi> in <hi>Fleetstreet,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104781:2"/>
+            <pb n="1" facs="tcp:104781:2"/>
+            <head>
+               <hi>Rules and Directions how all Dissenters may unite in Religion, as it is established in the Church of</hi> England.</head>
+            <p>THE Wisest of Kings hath told us, that there is a time, and a season for all things; a time to keep silence, and a time to speak; and certainly now, if ever, the last time is not only convenient, but absolutely neces<g ref="char:EOLhyphen"/>sary: And should Man hold his Peace and neglect this Du<g ref="char:EOLhyphen"/>ty, even the Stone should cry out of the Wall, and the Beam of the Timber shall Answer it: I offer these my Rules and Directions, how all Dissenters may Unite in Re<g ref="char:EOLhyphen"/>ligion, <hi>&amp;c.</hi> to all in general; but more particularly to those who are Dissenters from the Church of <hi>England,</hi> and who seem to make a breach in the Conformity, and happy U<g ref="char:EOLhyphen"/>nity of the Church; and by over-nice Scruples, cause a Schism and Rent in his Seamless Garment: 'tis to you that I now speak as a Friend; for we ought not to be as Wolves and Dogs, snarling and snapping one at the other, but with all gentleness and freedom admonish one another; with all lowliness and meekness, with long suffering, forbearing one another in love. 'Tis the command of our Lord Jesus Christ, who is Love it self, that we love one another; by it we are known to be his true Disciples and Followers of him; and there can be no greater sign of his love, than friendly to admonish one another of errors, and straying from the Truth, and to assist the weak, to raise up those that fall; to call to Unity and concord, and to stir up to peace and a<g ref="char:EOLhyphen"/>mity; <hi>That we may be all of one mind, having compassion one
+<pb n="2" facs="tcp:104781:3"/>of another. Love as brethren, being pitiful, being courleous, not rendring evil for evil, and railing for railing,</hi> 1 Pet. 3.8, 9.</p>
+            <p n="1">1. Since Separation and Division among Brethren pro<g ref="char:EOLhyphen"/>ceeds from the cunning and malice of Satan, and the Priests and Jesuits of the Church of <hi>Rome,</hi> why should this Sepa<g ref="char:EOLhyphen"/>ration continue any longer in our <hi>Israel?</hi> Why should not every man put to his helping hand, to build up the walls of Unity; and the only way against this <hi>Romish</hi> Faction, lies in the firm union of the whole Protestant Profession; and there is nothing wherein there is the least probability that we can ever be all united, unless it be in the Church of <hi>England,</hi> as it stands by Law established, agreeable to the Rules of the Holy Gospel, consonant to the Doctrine and Practice of the Primitive Christians; and not only allowed, but highly honoured by all the Reformed Churches in the world.</p>
+            <p n="2">2. Why do you dispute about Trifles only, (as you call them?) Is not the word of God truly dispensed in our Pub<g ref="char:EOLhyphen"/>lick Churches? Are we not Brethren, and members one of another, have we not one Father, God? One Head, Jesus Christ; and there is but one Body, one Spirit, one Lord, one Faith, one Baptism, one God and Father of all. And are not our Sacraments rightly administred? Are not our Prayers free from scandal and irreverence? Are not our Doctrines clear of error and falsity?</p>
+            <p n="3">3. Why then do you deny to hear, and Receive, where you may Communicate with a safe Conscience? As you may certainly do in ours; whose greatest Adversaries have not been able, after the most curious search they could make, to find out one thing in the whole Constitution which they could positively affirm to be forbidden; and till that can be made appear, we must still say that it cannot be un<g ref="char:EOLhyphen"/>lawful.</p>
+            <p n="4">4. As the form of Divine Service, contain'd in the Book of Common Prayer, which is now used in the <hi>Church</hi> of
+<pb n="3" facs="tcp:104781:3"/>
+               <hi>England,</hi> conduceth somuch to the Edifying those that use it; As may be seen in the Rules for our more devout behavi<g ref="char:EOLhyphen"/>our in the time of Divine Service in the Church of <hi>England,</hi> lately Published to shew in what good or<g ref="char:EOLhyphen"/>der the Publick Service of the <hi>Church</hi> of <hi>England</hi> is, and the Excellency and Usefulness of it, where its Rules are duly Observed. And it agrees exactly with the Rules of the <hi>Apostles,</hi> and is performed in <hi>English,</hi> the vulgar and com<g ref="char:EOLhyphen"/>mon Language of the Nation, which every one understands: But in the <hi>Church</hi> of <hi>Rome,</hi> the Common People are made uncapable of being Edify'd by the Prayers of the <hi>Church,</hi> in that they are all made in Latine, a Language which they do not all understand. So that when they meet to wor<g ref="char:EOLhyphen"/>ship God, there are seldom any in the Congregation that knows what is said there except the Priest that reads it: But blessed be God for it, it is not so with us; For ours is truly Common Prayer, for it is written and read in that Language which is Common to all the Congregations in the Kingdom: So that no man that frequents our Publick Congregations, can ever plead Ignorance of any one Duty whatsoever: For if it be not his own fault, he may there be instructed in every thing which he that made him, requires of him.</p>
+            <p n="5">5. Let the Benevolence and tender heartedness of so gra<g ref="char:EOLhyphen"/>cious a Prince, and King towards you, who tho he be of the Communion of the <hi>Church of England</hi> (yet has thought fit to give you some Ease and Liberty so that you may the better prepare your selves to Unity in that Holy Religi<g ref="char:EOLhyphen"/>on in the Church of <hi>England</hi>) move you to a ready and Ingenuous Compliance.</p>
+            <p n="6">6. How happy and Blessed then would the Nation be in this Unity; And how much Security would it give to three Kingdoms! And how much Content and Satisfaction to your Prince, and how much Joy, and Gladness, to the hearts of all your Brethren: what Peace should we enjoy at Home! what Esteem and Awe should we purchase abroad! what
+<pb n="4" facs="tcp:104781:4"/>Love would be begotten between one another! And what Happiness and Prosperity would it bring to all! You would then see again those happy days of Queen <hi>Elizabeth,</hi> our Armies to prosper, our Citizens to flourish, Conquest a<g ref="char:EOLhyphen"/>broad, and Peace at Home, Charity to increase, and Con<g ref="char:EOLhyphen"/>tention to cease; Love to abound, and strife to wax less. The golden Age would seem to be return'd again, and Righteousness would run down like a stream; there would then be a general rejoycing in our streets, and we should all cry out, <hi>This is the Lords doing; it is marvellous in our Eyes</hi>
+            </p>
+            <p n="7">7. Endeavour, to satisfy your Consciences, go about it in good earnest, lay aside all Spiritual Pride, all self-Interest, let the Case be stated truly by you: There are those that have not thought much to convince you, if Scripture and Reason will do it.</p>
+            <p>For I have Observed, that of Late several Divines of the Church of <hi>England,</hi> for to recover Dissenters to the Com<g ref="char:EOLhyphen"/>munion of the Church have undertaken the most Ma<g ref="char:EOLhyphen"/>terial Cases of Conscience that you do question; and have handled them with that Candour and Calmness which be<g ref="char:EOLhyphen"/>comes their profession, and the gravity of the Arguments, and which may the better invite those that are willing to be satisfyed, to peruse and consider them. The Names are as follows.</p>
+            <p n="1">1. <hi>A Perswasive to the Communion of the</hi> Church <hi>of</hi> England.</p>
+            <p n="2">2. <hi>A Discourse about Edification.</hi>
+            </p>
+            <p n="3">3. <hi>Cases of Conscience of Church Communion.</hi>
+            </p>
+            <p n="4">4. <hi>The Case of indifferent things used in the worship of God.</hi>
+            </p>
+            <p n="5">5. <hi>Certain cases of Conscience resolved concerning the lawfulness of joyn<g ref="char:EOLhyphen"/>ing with forms of Prayer in publick worship, in</hi> II. <hi>parts.</hi>
+            </p>
+            <p n="6">6. <hi>The Case of mixt Communion.</hi>
+            </p>
+            <p n="7">7. <hi>The Case of kneeling at the Holy Sacrament in</hi> II. <hi>Parts.</hi>
+            </p>
+            <p n="8">8. <hi>A Discourse of Profiting by Sermons.</hi>
+            </p>
+            <p n="9">9. <hi>The Case of Lay Communion with the</hi> Church <hi>of</hi> England.</p>
+            <p n="10">10. <hi>The Case of Infants Baptisme.</hi>
+            </p>
+            <p n="11">11. <hi>The Case of the Cross in Baptisme considered.</hi>
+            </p>
+            <pb n="5" facs="tcp:104781:4"/>
+            <p n="12">12. <hi>Considerations about the Case of Scandal or giving offence to weak Brethren.</hi>
+            </p>
+            <p n="13">13. <hi>The charge of Scandal and giving offence by conformity, refelled and reflected back upon separation.</hi>
+            </p>
+            <p n="14">14. <hi>A Letter to</hi> Anonymus <hi>in answer to his three Letters to Dr.</hi> Sherlock <hi>about Church Communion.</hi>
+            </p>
+            <p n="15">15. <hi>The Vindication of the Case of Indifferent things,</hi> &amp;c.</p>
+            <p n="16">16. <hi>A Discourse concerning conscience in</hi> II. <hi>Parts.</hi>
+            </p>
+            <p n="17">17. <hi>A Discourse about a Scrupulous conscience containing some plain Directions for the cure of it.</hi>
+            </p>
+            <p n="18">18. <hi>An Answer to the Dissenters Objections against the Common-Prayers</hi>
+            </p>
+            <p n="19">19. <hi>The resolution of this Case of Conscience whether the Church of</hi> England, <hi>symbolizing so far as it doth with the Church of</hi> Rome, <hi>makes it unlawful to hold Communion with the Church of</hi> England.</p>
+            <p>Read but these Cases of Conscience and then no doubt but your Scruples may be all resolved, and you may Con<g ref="char:EOLhyphen"/>form with satisfaction,</p>
+            <p>But to compleat our happiness you must come to his holy Temple and pray together with us, and that will compleat this Unity, and Friendship. We have been too long asunder, why should there be any difference between <hi>Benjamin</hi> and <hi>Judah?</hi> Let us meet, I say, at last as Brethren; come with willing hearts and minds, the <hi>Goliah</hi> of opposition may be easily slain; one single stone will sink that <hi>Philistine.</hi> Let some among you set an example, others will follow. Consider the Peace of <hi>Israel</hi> more than your own Interest, and think how you will strengthen the hands of your Brethren by this so much desired Unity and happy Conformity. Let at last the great mercy that is shewn you be a motive to bring you to this de<g ref="char:EOLhyphen"/>sired and happy Unity, let love draw you and delay no lon<g ref="char:EOLhyphen"/>ger; but let us meet with kindness and submission.</p>
+            <p n="9">9. Lay these things seriously to your heart, pass them not slightly over, and let it move you to pitty at last to see the Ghastly wounds that are still renewed by the continuance of our Divisions, let us have some compassion on a bleeding Church that is ready to faint, and in eminent danger of being made a prey to her Enemies, by the unnatural heats and animo<g ref="char:EOLhyphen"/>sities
+<pb n="6" facs="tcp:104781:5"/>of those that should support and defend her, for it is said in the Vindication of the Conforming Clergy, <hi>Pag.</hi> 50. <hi>The Church of</hi> England <hi>is a Body of so firm a Constitution, and so excellently temper'd, and so well shap'd, and of so clear a strength and vigour in all its Limbs, that no outward force is able to injure it, nothing but some inward corruption and decay in the Vital parts that can possibly bring it to the ground.</hi>
+            </p>
+            <p n="10">10 Let us shew that we are inclined unto Peace, by coming as far as we can; and let not our groundless scruples at a Ceremony or two, fright us from the whole Worship of God, against which we have not any Exceptions: Be united in mind, be of one heart, worship together, separate no longer, and God will build you up: Then God will be known in <hi>Judah,</hi> and his Name will be great in <hi>Israel.</hi> You shall then be united like <hi>Israel</hi> and <hi>Judah,</hi> you shall have but one King, you shall be no more two Nations. What Na<g ref="char:EOLhyphen"/>tion will there be so great, who hath God so nigh unto them! Then you shall be his people, and he will be your God; he will give you one heart, and one way, that you may fear him for ever for the good of you and your Children after you. Then will ye with one mind and one voice glorifie God, even the Father of our Lord Jesus Christ.</p>
+            <p>We and you, all of us hope to attain the same End of our Faith; a <hi>Heavenly Canaan,</hi> is all our Journeys end; <hi>we are Brethren, why should we fall out by the way?</hi> Why all this noise? it will not, it cannot be long e're we all lye quiet in our Graves; thence we hope all to pass to such a state, where there<g ref="char:EOLhyphen"/>will be nothing but Unity, Uniformity, and Harmony; where a full Choir of Saints, in a Beautiful Church Triumphant, and a Noble Hierarchy of Angels shall sing <hi>Allelujahs,</hi> and worship God in the Beauties of Holiness for ever and ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
